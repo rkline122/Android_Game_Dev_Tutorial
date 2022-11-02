@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 6999272984560971588}
   - component: {fileID: 6999272984560971590}
   - component: {fileID: 6999272984560971589}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: EnvironmentTiles_1 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -122,7 +122,7 @@ GameObject:
   - component: {fileID: 6999272984941717398}
   - component: {fileID: 6999272984941717397}
   - component: {fileID: 6999272984941717396}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: EnvironmentTiles_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -233,7 +233,7 @@ GameObject:
   - component: {fileID: 6999272984988011525}
   - component: {fileID: 6999272984988011527}
   - component: {fileID: 6999272984988011526}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: EnvironmentTiles_1 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -344,7 +344,7 @@ GameObject:
   - component: {fileID: 6999272985636433252}
   - component: {fileID: 6999272985636433253}
   - component: {fileID: 2274506547130050621}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ground
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -420,7 +420,7 @@ GameObject:
   - component: {fileID: 6999272985698019621}
   - component: {fileID: 6999272985698019623}
   - component: {fileID: 6999272985698019622}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: EnvironmentTiles_1 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -531,7 +531,7 @@ GameObject:
   - component: {fileID: 6999272985801275058}
   - component: {fileID: 6999272985801275068}
   - component: {fileID: 6999272985801275059}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: EnvironmentTiles_1 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
