@@ -37,7 +37,7 @@ public class Player : MonoBehaviour
         }
 
 
-        speed = speed + (Time.deltaTime*(float).05);
+        speed = speed + (Time.deltaTime*(float).5);
         rigidBody.velocity = new Vector2(speed, rigidBody.velocity.y);
 
         bool grounded = Physics2D.IsTouchingLayers(playerCollider, ground);
