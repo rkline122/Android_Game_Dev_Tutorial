@@ -8,8 +8,10 @@ public class Player : MonoBehaviour
     public float speed;
     public float jump;
 
+
     public LayerMask ground;
     public LayerMask deathGround;
+
 
     private Rigidbody2D rigidBody;
     private Collider2D playerCollider;
@@ -34,6 +36,8 @@ public class Player : MonoBehaviour
             GameOver();
         }
 
+
+        speed = speed + (Time.deltaTime*(float).05);
         rigidBody.velocity = new Vector2(speed, rigidBody.velocity.y);
 
         bool grounded = Physics2D.IsTouchingLayers(playerCollider, ground);
