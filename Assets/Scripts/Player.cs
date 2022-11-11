@@ -9,10 +9,13 @@ public class Player : MonoBehaviour
     public float jump;
 
     public LayerMask ground;
+    public LayerMask deathGround;
 
     private Rigidbody2D rigidBody;
     private Collider2D playerCollider;
     private Animator animator;
+
+    public GameManager gameManager;
 
     // Start is called before the first frame update
     void Start()
@@ -25,6 +28,12 @@ public class Player : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        bool isDead = Physics2D.IsTouchingLayers(playerCollider, deathGround);
+
+        if(isDead){
+            GameOver();
+        }
+
         rigidBody.velocity = new Vector2(speed, rigidBody.velocity.y);
 
         bool grounded = Physics2D.IsTouchingLayers(playerCollider, ground);
@@ -32,10 +41,15 @@ public class Player : MonoBehaviour
         if(Input.GetMouseButtonDown(0) || Input.GetKeyDown(KeyCode.Space)){
             if(grounded) {
                 rigidBody.velocity = new Vector2(rigidBody.velocity.x, jump);
-            } 
+            }
         }
 
         animator.SetBool("Grounded", grounded);
+    }
+
+
+    void GameOver(){
+        gameManager.GameOver();
     }
 }
 

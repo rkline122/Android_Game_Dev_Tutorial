@@ -27,7 +27,7 @@ public class GroundGenerator : MonoBehaviour
             groundWidths[i] = groundPoolers[i].pooledObject.GetComponent<BoxCollider2D>().size.x;
         }
 
-        
+
     }
 
     void Update()
