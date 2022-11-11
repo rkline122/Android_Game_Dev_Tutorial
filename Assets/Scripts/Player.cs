@@ -8,8 +8,10 @@ public class Player : MonoBehaviour
     public float speed;
     public float jump;
 
+
     public LayerMask ground;
 
+   
     private Rigidbody2D rigidBody;
     private Collider2D playerCollider;
     private Animator animator;
@@ -25,6 +27,8 @@ public class Player : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        
+        speed = speed + (Time.deltaTime*(float).05);
         rigidBody.velocity = new Vector2(speed, rigidBody.velocity.y);
 
         bool grounded = Physics2D.IsTouchingLayers(playerCollider, ground);
