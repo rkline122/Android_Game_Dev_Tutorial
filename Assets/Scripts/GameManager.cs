@@ -13,6 +13,8 @@ public class GameManager : MonoBehaviour
     public GameObject ground;
     public GameObject gameOverScreen;
 
+    public ScoreManager scoreManager;
+
 
     // Start is called before the first frame update
     void Start()
@@ -36,13 +38,22 @@ public class GameManager : MonoBehaviour
         groundGenerator.transform.position = groundGenerationStartPoint;
         gameOverScreen.SetActive(false);
         player.gameObject.SetActive(true);
-        
+        groundGenerator.setActive = true;
+        scoreManager.resetScore();
+        scoreManager.isScoreIncreasing = true;
+        player.speed = 15;
+
+    }
+
+    public void Quit(){
+        Application.Quit();
     }
 
     public void GameOver(){
         gameOverScreen.SetActive(true);
         player.gameObject.SetActive(false);
-
+        scoreManager.isScoreIncreasing = false;
+        groundGenerator.setActive = false;
     }
 
 }

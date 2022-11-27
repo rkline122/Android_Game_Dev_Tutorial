@@ -7,15 +7,20 @@ using TMPro;
 public class ScoreManager : MonoBehaviour
 {
     public float pointsPerSecond;
-
     public Text scoreText;
     public Text highScoreText;
-
     private float score;
     private float highScore;
+    public bool isScoreIncreasing;
+
+    public void resetScore(){
+        score = 0;
+    }
+
     // Start is called before the first frame update
     void Start()
     {
+        isScoreIncreasing = true;
 
         if(PlayerPrefs.HasKey("HighScore")){
             highScore = PlayerPrefs.GetFloat("HighScore");
@@ -23,10 +28,14 @@ public class ScoreManager : MonoBehaviour
 
     }
 
+
     // Update is called once per frame
     void Update()
     {
-        score += pointsPerSecond*Time.deltaTime;
+        if(isScoreIncreasing){
+            score += pointsPerSecond*Time.deltaTime;
+        }
+
         if(score > highScore){
             highScore = score;
             PlayerPrefs.SetFloat("HighScore", highScore);
@@ -34,7 +43,7 @@ public class ScoreManager : MonoBehaviour
 
         scoreText.text = Mathf.Round(score).ToString();
         highScoreText.text = Mathf.Round(highScore).ToString();
-        
-        
+
+
     }
 }

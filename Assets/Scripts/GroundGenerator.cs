@@ -17,8 +17,11 @@ public class GroundGenerator : MonoBehaviour
     public ObjectPooler[] groundPoolers;
     private float[] groundWidths;
 
+    public bool setActive;
+
     void Start()
     {
+        setActive = true;
         minY = minHeightPoint.position.y;
         maxY = maxHeightPoint.position.y;
 
@@ -32,28 +35,31 @@ public class GroundGenerator : MonoBehaviour
 
     void Update()
     {
-        if(transform.position.x < groundPoint.position.x){
-            int random = Random.Range(0, groundPoolers.Length);
-            float distance = groundWidths[random]/2;
+        if(setActive){
+            if(transform.position.x < groundPoint.position.x){
+                int random = Random.Range(0, groundPoolers.Length);
+                float distance = groundWidths[random]/2;
 
-            float gap = Random.Range(minGap, maxGap);
-            float height = Random.Range(minY, maxY);
+                float gap = Random.Range(minGap, maxGap);
+                float height = Random.Range(minY, maxY);
 
-            transform.position = new Vector3(
-                transform.position.x + distance + gap,
-                height,
-                transform.position.z
-            );
+                transform.position = new Vector3(
+                    transform.position.x + distance + gap,
+                    height,
+                    transform.position.z
+                );
 
-            GameObject ground = groundPoolers[random].GetPooledObject();
-            ground.transform.position = transform.position;
-            ground.SetActive(true);
+                GameObject ground = groundPoolers[random].GetPooledObject();
+                ground.transform.position = transform.position;
+                ground.SetActive(true);
 
-            transform.position = new Vector3(
-                transform.position.x + distance,
-                transform.position.y,
-                transform.position.z
-            );
+                transform.position = new Vector3(
+                    transform.position.x + distance,
+                    transform.position.y,
+                    transform.position.z
+                );
+            }
         }
+
     }
 }
