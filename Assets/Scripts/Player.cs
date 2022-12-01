@@ -19,6 +19,9 @@ public class Player : MonoBehaviour
 
     public GameManager gameManager;
 
+    public AudioSource jumpSound;
+    public AudioSource deathSound;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -45,6 +48,7 @@ public class Player : MonoBehaviour
         if(Input.GetMouseButtonDown(0) || Input.GetKeyDown(KeyCode.Space)){
             if(grounded) {
                 rigidBody.velocity = new Vector2(rigidBody.velocity.x, jump);
+                jumpSound.Play();
             }
         }
 
@@ -54,6 +58,7 @@ public class Player : MonoBehaviour
 
     void GameOver(){
         gameManager.GameOver();
+        deathSound.Play();
     }
 }
 
