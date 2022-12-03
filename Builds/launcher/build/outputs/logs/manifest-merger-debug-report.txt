@@ -4,7 +4,7 @@ ADDED from C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android
 INJECTED from C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\launcher\src\main\AndroidManifest.xml:2:1-17:12
 INJECTED from C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\launcher\src\main\AndroidManifest.xml:2:1-17:12
 INJECTED from C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\launcher\src\main\AndroidManifest.xml:2:1-17:12
-MERGED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-82:12
+MERGED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-84:12
 INJECTED from C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\launcher\src\main\AndroidManifest.xml:2:1-17:12
 INJECTED from C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\launcher\src\main\AndroidManifest.xml:2:1-17:12
 INJECTED from C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\launcher\src\main\AndroidManifest.xml:2:1-17:12
@@ -40,10 +40,10 @@ ADDED from C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android
 		ADDED from C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\launcher\src\main\AndroidManifest.xml:11:7-32
 application
 ADDED from C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\launcher\src\main\AndroidManifest.xml:12:3-16:9
-MERGED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:30:5-80:19
-MERGED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:30:5-80:19
+MERGED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:30:5-82:19
+MERGED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:30:5-82:19
 	android:extractNativeLibs
-		ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:30:18-50
+		ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:31:9-41
 	android:screenOrientation
 		ADDED from C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\launcher\src\main\AndroidManifest.xml:15:7-50
 	android:label
@@ -103,90 +103,90 @@ ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall
 	android:name
 		ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:27:9-72
 activity#com.unity3d.player.UnityPlayerActivity
-ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:31:9-51:20
+ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:33:9-53:20
 	android:screenOrientation
-		ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:37:13-56
+		ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:39:13-56
 	android:launchMode
-		ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:35:13-44
+		ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:37:13-44
 	android:hardwareAccelerated
-		ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:34:13-48
+		ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:36:13-48
 	android:resizeableActivity
-		ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:36:13-47
+		ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:38:13-47
 	android:configChanges
-		ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:33:13-194
+		ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:35:13-194
 	android:theme
-		ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:38:13-54
+		ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:40:13-54
 	android:name
-		ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:32:13-66
+		ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:34:13-66
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:39:13-43:29
+ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:41:13-45:29
 action#android.intent.action.MAIN
-ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:40:17-69
+ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:42:17-69
 	android:name
-		ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:40:25-66
+		ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:42:25-66
 category#android.intent.category.LAUNCHER
-ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:42:17-77
+ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:44:17-77
 	android:name
-		ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:42:27-74
+		ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:44:27-74
 meta-data#unityplayer.UnityActivity
-ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:45:13-47:40
+ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:47:13-49:40
 	android:value
-		ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:47:17-37
+		ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:49:17-37
 	android:name
-		ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:46:17-57
+		ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:48:17-57
 meta-data#android.notch_support
-ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:48:13-50:40
+ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:50:13-52:40
 	android:value
-		ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:50:17-37
+		ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:52:17-37
 	android:name
-		ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:49:17-53
+		ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:51:17-53
 meta-data#unity.splash-mode
-ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:53:9-55:33
+ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:55:9-57:33
 	android:value
-		ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:55:13-30
+		ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:57:13-30
 	android:name
-		ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:54:13-45
+		ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:56:13-45
 meta-data#unity.splash-enable
-ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:56:9-58:36
+ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:58:9-60:36
 	android:value
-		ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:58:13-33
+		ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:60:13-33
 	android:name
-		ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:57:13-47
+		ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:59:13-47
 meta-data#unity.launch-fullscreen
-ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:59:9-61:36
+ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:61:9-63:36
 	android:value
-		ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:61:13-33
+		ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:63:13-33
 	android:name
-		ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:60:13-51
+		ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:62:13-51
 meta-data#unity.allow-resizable-window
-ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:62:9-64:37
+ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:64:9-66:37
 	android:value
-		ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:64:13-34
+		ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:66:13-34
 	android:name
-		ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:63:13-56
+		ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:65:13-56
 meta-data#notch.config
-ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:65:9-67:50
+ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:67:9-69:50
 	android:value
-		ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:67:13-47
+		ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:69:13-47
 	android:name
-		ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:66:13-40
+		ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:68:13-40
 receiver#com.unity.androidnotifications.UnityNotificationManager
-ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:69:9-71:40
+ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:71:9-73:40
 	android:exported
-		ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:71:13-37
+		ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:73:13-37
 	android:name
-		ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:70:13-83
+		ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:72:13-83
 receiver#com.unity.androidnotifications.UnityNotificationRestartOnBootReceiver
-ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:72:9-79:20
+ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:74:9-81:20
 	android:enabled
-		ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:74:13-36
+		ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:76:13-36
 	android:exported
-		ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:75:13-37
+		ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:77:13-37
 	android:name
-		ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:73:13-97
+		ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:75:13-97
 intent-filter#action:name:android.intent.action.BOOT_COMPLETED
-ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:76:13-78:29
+ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:78:13-80:29
 action#android.intent.action.BOOT_COMPLETED
-ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:77:17-79
+ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:79:17-79
 	android:name
-		ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:77:25-76
+		ADDED from [:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:79:25-76

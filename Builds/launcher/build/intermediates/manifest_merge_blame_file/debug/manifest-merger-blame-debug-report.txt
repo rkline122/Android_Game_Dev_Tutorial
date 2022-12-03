@@ -64,7 +64,7 @@
 37-->C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\launcher\src\main\AndroidManifest.xml:12:3-16:9
 38        android:debuggable="true"
 39        android:extractNativeLibs="true"
-39-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:30:18-50
+39-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:31:9-41
 40        android:icon="@mipmap/app_icon"
 40-->C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\launcher\src\main\AndroidManifest.xml:14:7-38
 41        android:label="CIS 357 Term Project"
@@ -72,96 +72,96 @@
 42        android:screenOrientation="sensorLandscape" >
 42-->C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\launcher\src\main\AndroidManifest.xml:15:7-50
 43        <activity
-43-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:31:9-51:20
+43-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:33:9-53:20
 44            android:name="com.unity3d.player.UnityPlayerActivity"
-44-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:32:13-66
+44-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:34:13-66
 45            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
-45-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:33:13-194
+45-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:35:13-194
 46            android:hardwareAccelerated="false"
-46-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:34:13-48
+46-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:36:13-48
 47            android:launchMode="singleTask"
-47-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:35:13-44
+47-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:37:13-44
 48            android:resizeableActivity="false"
-48-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:36:13-47
+48-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:38:13-47
 49            android:screenOrientation="sensorLandscape"
-49-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:37:13-56
+49-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:39:13-56
 50            android:theme="@style/UnityThemeSelector" >
-50-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:38:13-54
+50-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:40:13-54
 51            <intent-filter>
-51-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:39:13-43:29
+51-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:41:13-45:29
 52                <action android:name="android.intent.action.MAIN" />
-52-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:40:17-69
-52-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:40:25-66
+52-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:42:17-69
+52-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:42:25-66
 53
 54                <category android:name="android.intent.category.LAUNCHER" />
-54-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:42:17-77
-54-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:42:27-74
+54-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:44:17-77
+54-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:44:27-74
 55            </intent-filter>
 56
 57            <meta-data
-57-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:45:13-47:40
+57-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:47:13-49:40
 58                android:name="unityplayer.UnityActivity"
-58-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:46:17-57
+58-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:48:17-57
 59                android:value="true" />
-59-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:47:17-37
+59-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:49:17-37
 60            <meta-data
-60-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:48:13-50:40
+60-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:50:13-52:40
 61                android:name="android.notch_support"
-61-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:49:17-53
+61-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:51:17-53
 62                android:value="true" />
-62-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:50:17-37
+62-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:52:17-37
 63        </activity>
 64
 65        <meta-data
-65-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:53:9-55:33
+65-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:55:9-57:33
 66            android:name="unity.splash-mode"
-66-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:54:13-45
+66-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:56:13-45
 67            android:value="0" />
-67-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:55:13-30
+67-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:57:13-30
 68        <meta-data
-68-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:56:9-58:36
+68-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:58:9-60:36
 69            android:name="unity.splash-enable"
-69-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:57:13-47
+69-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:59:13-47
 70            android:value="True" />
-70-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:58:13-33
+70-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:60:13-33
 71        <meta-data
-71-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:59:9-61:36
+71-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:61:9-63:36
 72            android:name="unity.launch-fullscreen"
-72-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:60:13-51
+72-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:62:13-51
 73            android:value="True" />
-73-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:61:13-33
+73-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:63:13-33
 74        <meta-data
-74-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:62:9-64:37
+74-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:64:9-66:37
 75            android:name="unity.allow-resizable-window"
-75-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:63:13-56
+75-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:65:13-56
 76            android:value="False" />
-76-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:64:13-34
+76-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:66:13-34
 77        <meta-data
-77-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:65:9-67:50
+77-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:67:9-69:50
 78            android:name="notch.config"
-78-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:66:13-40
+78-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:68:13-40
 79            android:value="portrait|landscape" />
-79-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:67:13-47
+79-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:69:13-47
 80
 81        <receiver
-81-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:69:9-71:40
+81-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:71:9-73:40
 82            android:name="com.unity.androidnotifications.UnityNotificationManager"
-82-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:70:13-83
+82-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:72:13-83
 83            android:exported="false" />
-83-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:71:13-37
+83-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:73:13-37
 84        <receiver
-84-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:72:9-79:20
+84-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:74:9-81:20
 85            android:name="com.unity.androidnotifications.UnityNotificationRestartOnBootReceiver"
-85-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:73:13-97
+85-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:75:13-97
 86            android:enabled="false"
-86-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:74:13-36
+86-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:76:13-36
 87            android:exported="false" >
-87-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:75:13-37
+87-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:77:13-37
 88            <intent-filter>
-88-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:76:13-78:29
+88-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:78:13-80:29
 89                <action android:name="android.intent.action.BOOT_COMPLETED" />
-89-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:77:17-79
-89-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:77:25-76
+89-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:79:17-79
+89-->[:unityLibrary] C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:79:25-76
 90            </intent-filter>
 91        </receiver>
 92    </application>

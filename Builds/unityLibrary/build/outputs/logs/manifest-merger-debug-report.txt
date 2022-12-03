@@ -25,6 +25,8 @@ INJECTED from C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Andr
 		ADDED from C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\src\main\AndroidManifest.xml:2:11-69
 application
 ADDED from C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\src\main\AndroidManifest.xml:3:3-23:17
+	android:screenOrientation
+		ADDED from C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\src\main\AndroidManifest.xml:3:49-92
 	android:extractNativeLibs
 		ADDED from C:\Users\ryank\OneDrive\Documents\GVSU\2022-2023\Fall\CIS 357\Android_Game_Dev_Tutorial\Builds\unityLibrary\src\main\AndroidManifest.xml:3:16-48
 activity#com.unity3d.player.UnityPlayerActivity
